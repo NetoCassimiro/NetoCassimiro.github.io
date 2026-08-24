@@ -676,7 +676,7 @@ h1 span {
 
 .tipo-projeto {
     color: #1437db;
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 1.5px;
 }
 
@@ -706,7 +706,7 @@ h1 span {
 .tecnologias-projeto span {
     padding: 8px 12px;
 
-    font-size: 10px;
+    font-size: 11px;
 
     border: 1px solid #cdd2ce;
     border-radius: 20px;
@@ -744,7 +744,7 @@ h1 span {
 }
 
 .rotulo-grafico span {
-    font-size: 9px;
+    font-size: 14px;
     letter-spacing: 2px;
     opacity: 0.7;
 }
@@ -808,7 +808,7 @@ h1 span {
     display: flex;
     justify-content: space-between;
 
-    font-size: 9px;
+    font-size: 14px;
     opacity: 0.65;
 }
 
